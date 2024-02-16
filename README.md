@@ -1,7 +1,7 @@
 ## Notes
 
 ### Objetivo do Projeto
-<p>O projeto tem como objetivo poder escrever notas usando texto ou voz. Serve para o aprendizado de React, Tailwind e da API SpeechRecognition.</p>
+<p>O projeto tem como objetivo poder escrever notas usando texto ou voz. Serve para o aprendizado de React, Tailwind e da API SpeechRecognition. Feito com base no curso da Rocketseat.</p>
 
 ### Requisitos do Projeto
 <ul>
@@ -28,3 +28,5 @@
 ### Imagens
 ![image](https://github.com/bruno08nunes/notes/assets/139359503/ae25e23b-eacf-4b99-b539-cd89767b940c)
 ![image](https://github.com/bruno08nunes/notes/assets/139359503/ec81e974-7fea-4ee7-abf8-dc548b471872)
+
+Veja o site em: <a href="https://bruno08nunes-notes.vercel.app/">Notas</a>
